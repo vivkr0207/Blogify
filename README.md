@@ -1,4 +1,4 @@
-# blogify
+# BLOGIFY
 A Full Stack Online Blog Application
 
 This site is not live
